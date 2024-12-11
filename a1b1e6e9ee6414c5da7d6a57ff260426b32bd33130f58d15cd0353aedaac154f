@@ -1,7 +1,5 @@
 //d4cbef9d6f88ed0e90d8dff33f3994683df38936b61557b1bac0a452ee17039ae9ca32baa275e5db79e1c7f2a5bb8c4490bc3c1420b1bd6de88f19d84823383d//$$$$$$$$$$$$$$$$$$
 const VIP的網模版 = '數碼轉型/髮型屋預約系統.html'//$$$$$$$$$$$$$$$$$$
+const 公司資料 = 'U2FsdGVkX19I741loRbrP4i+V6b/VUQTfE1cmCWL7sNfoHbfwuWgimn6ixMRnVNHFo6mAvndVMTY97ve/G5Y54bOvh4Imwx35YOs6zMH9IBmbQQ46jWZGuELYTcascxY/OJjvyFe1SWxin4tdTJXXvhK9U8WxAEhEAOwMzflvMpL26aPF2NOlI5jaw0gRZRhLMhfH22NFvX97tJ9/CIroC27i39+BBYzVVA/7a+i4XBls332RvEzCBCQRFRWlNDMFSys78k8qKCrVP8hqMwx/L7qAAC7YPhU8D7MNgtPj7Q5j7bGcKZtCZA/b6SEh/xDd0aM3iKejySAqMGtQMDc3C4Nxl01RdwDC/YTu4a6t3t+igENTWFgWD0Q+/dXA7ZMb/5gOuhaVwelZBypawnnRfwyL5tye3uICRTrvWCWfp5sB+071Cral1raHUKSAM8OWvllZVwpiN/bdtWW6RuhAQ=='//$$$$$$$$$$$$$$$$$$
 
-const 公司資料 = 'U2FsdGVkX1+sOmiwodMZC+uZ5HMXhvTAKDBcItdnyo3n17rTHnrLdC3v40uubfc1jXZIMcSHIr16195yFXDbuG+y28o+juxd1aQHRyRNUQ8cDhEVXvBUkXwdDpzQpIkMipMYzmKNXW3LPzhLBzWEDuC6WkMFlkiG03v3MoHCFU11UebvnYIRk1hKPpDYpAr+lkqoMlqdFx9LHlp0rPSIei9/FskyoHN6LJmWdl37IHwS9EgGnDbOZsXRxEq7HNhDWES8WMObb6SoIhJLsEu1VEpi7QnkRo6zsrAm34Dc3pfjjzc39R6L/AzzJewI3Rv8O2yhPtuk0q8dyNxTrkVTwbFbjTtXCBNiLp94fYB479q2gaMH+pkZAdlBFVGEJQdg7vDISpZIze4Jfo+EScZpKi1U+ignnlEIMvLIdkiGbKsB8DyUZgc3IXPuh5VRTbAPmnKmeAtVf/z0Ob9cO/lImw=='//$$$$$$$$$$$$$$$$$$
-
-const 預約日程表 = 'U2FsdGVkX19nNl+0+ZLnZ4oL7o2Q2f4muoSEseDuN6e/UgEa7EAlCwqLh6vSggmX'//$$$$$$$$$$$$$$$$$$
-const 琪琪髮型預約系統預約日程表 = 'U2FsdGVkX18+OB+5T51ynjBN6haLuZgsa6Htkj0a2noY3yMmylNj6K8cl5s2OHqb'//$$$$$$$$$$$$$$$$$$
+const 預約日程表 = 'U2FsdGVkX19nNl+0+ZLnZ4oL7o2Q2f4muoSEseDuN6e/UgEa7EAlCwqLh6vSggmX
