@@ -1,7 +1,4 @@
 //f24808a0e210b3b6e54ee80fc553b4ecc69236afc3e322875a7944becd8892fd99e50253750e629818a4ec38ef9bf1d6f5cc7d2ff046b06b4d58ee2e13bac169//$$$$$$$$$$$$$$$$$$
 const 推薦人 = 'U2FsdGVkX19nY9dN5RXn6/Ofw/L57BE0qQ4DEkUeEYE='//$$$$$$$$$$$$$$$$$$
 const VIP的網模版 = '數碼轉型/髮型屋預約系統.html'//$$$$$$$$$$$$$$$$$$
-
-const 公司資料 = 'U2FsdGVkX1/sLcbseANggk+gILT7o5SrB50bZrE6RuxeD5+6jvTBoJ2z0bwlTKs43KIiJirImHT3uH/Lmc3t2C9y7DxBvfj7RvRor5DRQyh1zHh24tRRuB+YA7/XzToMK/oabXVZFugmai4wlPHPyHF/wbMSaUragtFVHiyo56eApKO/Bnp+OrLluHCg1dXt1Ssn9i1ax9gaySq+bKnLJ+09rWQIul5AqxVEjSXHnUgR6ei6FHiAV5YZQ/9OCGZQ1PLari402QNvBV+OdmFlqVKD2Dq+mwhQmDYsFbznqxzoLM+WImMqyT1BFRFBSfrFjo81IfLTC1xy32xdlt4OMQ=='//$$$$$$$$$$$$$$$$$$
-
-const 產品資料 = 'U2FsdGVkX1+mAxSFSkYOCVhw/0JYFp64s9rtlSvCmiabgcjii5Nw4WfjWDo5MjC5YHVi3FqNnxYf5f49ZRKPDsCMLvHRS332M+B0ghuT4BABKnn21FD+cd7uloo3dxaohaNTOhllDitzTeSH9baQvRTdCtp5qQ9L3xLx4xdkLe9l1EowI/rc0SntZ5Hu0DDN5v7pST0lZhXJAHB2UImI17N5fuDVq8jk3AhHB70b60/I54LfhCCM3zYX8ePEX61SVUrP40vZsSuU7pmJozrwmbSh1qmakQNRyq+Qiw+ZhS0='//$$$$$$$$$$$$$$$$$$
+const 公司資料 = 'U2FsdGVkX1/3H7E5G5n2fMUiBQfkTfBbQXNHSuIrgbRI+nuJrdEakYQEVAbkd03r0/UWDSFBqqSd2drKfTItgiG6NUjoKVCPPY+IaXj0wN/nyNu1RCZjWasWupWF1rc65RgBLV4/MDARogUYG8o6qI4raDfRir01tQ/dl33DkPqytG+EaHqLLXHPjyDiUjKJM87r3ThjhFhoFlpUgu6c1miFzBFL6sl5fEcR5BfiM7Cl+EvKP7DH+N7m9sbaHQPynRL8i39RZK/VXbfyHTCnra9OKIGLkjETAlcgEtRaoayZU63Na0MtiVmIliwRyclo5soV0On/G0//By/N0jqZwJswE8Qgfmlo0nO9YImo4r2d10Vd1j3ghqxzBlHDpHia'//$$$$$$$$$$$$$$$$$$
